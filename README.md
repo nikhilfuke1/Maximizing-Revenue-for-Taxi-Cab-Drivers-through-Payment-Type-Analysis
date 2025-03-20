@@ -1,1 +1,2 @@
 # Maximizing-Revenue-for-Taxi-Cab-Drivers-through-Statistics-Hypothesis-Testing-Analysis
+This project explores hypothesis testing techniques in Python, focusing on analyzing real-world data to draw meaningful conclusions. It involves formulating research questions, setting up null and alternative hypotheses, and selecting appropriate statistical tests based on data types. The project also emphasizes presenting findings effectively through data storytelling and impactful visual presentations.
