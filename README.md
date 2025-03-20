@@ -1,1 +1,1 @@
-# Maximizing-Revenue-for-Taxi-Cab-Drivers-through-Payment-Type-Analysis
+# Maximizing-Revenue-for-Taxi-Cab-Drivers-through-Statistics-Hypothesis-Testing-Analysis
